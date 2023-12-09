@@ -5,7 +5,8 @@
 <h3 align="center">React Js | Node Js | HTML,CSS,JS</h3>
 <h3 align="center">Web Developer [Full Stack] | DSA Enthusiast</h3>
 
-- My updated [Resume](https://github.com/MohdAqib8267/My-Resume/blob/main/Mohd%20Aqib%20Resume.pdf)
+- My updated [Resume](https://github.com/MohdAqib8267/MohdAqib8267/files/13625868/MohdAqibResume5A.1.pdf)
+
 - Practicing Data Structures and Algorithms at [LeetCode](https://leetcode.com/mohd_aqib/)
 - Shoot a mail on mohdaqib921@gmail.com
 - Connect with me on [LinkedIn](www.linkedin.com/in/mohd-aqib-4052b6225)
